@@ -1,5 +1,5 @@
 # profile_card
-Screenshot
+
 ![image](https://user-images.githubusercontent.com/96056167/166851662-e16e9f4f-9792-45c6-9593-619f029ac2b9.png)
 
 ## Getting Started
